@@ -1,5 +1,3 @@
-// controllers/booksController.js
-
 const Book = require("../utils/Book");
 
 // Temporary in-memory data store
